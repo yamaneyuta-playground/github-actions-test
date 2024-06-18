@@ -10,6 +10,6 @@ updates:
    directory: "/"
    schedule:
      interval: weekly
-   assignees:
+   reviewers:
      - "yamaneyuta"
    open-pull-requests-limit: 10
