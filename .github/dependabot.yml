@@ -10,4 +10,6 @@ updates:
    directory: "/"
    schedule:
      interval: weekly
+   assignees:
+     - "yamaneyuta"
    open-pull-requests-limit: 10
