@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "rimraf": "~5.0.7"
+    "rimraf": "~6.0.1"
   }
 }
